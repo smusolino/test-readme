@@ -1,2 +1,2 @@
 # Test Readme
-This is a projecto to test the readme.io tool
+This is a project to test the readme.io tool

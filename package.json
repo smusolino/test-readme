@@ -6,10 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Silvio <smusolino@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.4.0",
     "test-mock-api-call-silvio": "^1.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:smusolino/test-readme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/smusolino/test-readme/issues"
+  },
+  "homepage": "https://github.com/smusolino/test-readme",
+  "keywords": []
 }
